@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-7m6wsn.indocuansite.space/sitemap.xml
